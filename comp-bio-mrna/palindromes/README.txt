@@ -1,4 +1,4 @@
-Written by Ziqing (Anney) Ye, proposed by Siran Tian & Tatjana Trcek, for Trcek Lab at Johns Hopkins University
+Written by Ziqing (Anney) Ye, proposed by Siran Tian & Tatjana Trcek, for Trcek Lab at Johns Hopkins University.
 Work in progress, paper in progress.
 Table of contents:
 1.	Palindrome identification and quantification (pfind.py and palindrome_write_to_excel.py) (for Siran’s paper figure 2A and consequent analysis)
