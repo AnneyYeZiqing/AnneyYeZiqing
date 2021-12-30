@@ -1,0 +1,45 @@
+post-it refs used
+
+##class Person: #Python class declaration example
+##  def __init__(self, name, age):
+##    self.name = name
+##    self.age = age
+##
+##p1 = Person("John", 36)
+##
+##print(p1.name)
+##print(p1.age)
+##
+##
+##>>> np.full((3, 5), 7, dtype=int)
+##array([[7, 7, 7, 7, 7],
+##       [7, 7, 7, 7, 7],
+##       [7, 7, 7, 7, 7]])
+##
+##array[:, column] = values
+##https://stackoverflow.com/questions/1535327/how-to-print-instances-of-a-class-using-print
+##
+##use == if you want to check if the array values are inside a range, i.e A < arr < B, or != if you want to check if the array values are outside a range, i.e arr < A and arr > B :
+##
+##(arr<1) != (arr>3)
+##> array([[False,  True, False],
+##         [ True, False,  True],
+##         [ True,  True,  True],
+##         [False, False, False]])
+##(arr>1) == (arr<4)
+##> array([[False, False, False],
+##         [False, False, False],
+##         [False, False, False],
+##         [ True,  True,  True]])
+
+
+random.randint(a, b)
+Return a random integer N such that a <= N <= b. Alias for randrange(a, b+1).
+
+
+tests
+pack1 = PostIt(6, 30)
+print(pack1)
+pack1.pull_on_first_row()
+pack1.reset_notes()
+pack1.pull_randomly()
