@@ -2,7 +2,7 @@ ClickIntensity
 By Ziqing Ye @ Trcek lab
 
 
-The program is used to take pixel intensity data. Here’s a brief summary of what it does: 
+The program is used to record average pixel intensity data in target regions of interest. Here’s a brief summary of what it does: 
 a.	You open the program and the image that you want to analyze opens up.
 b.	You left click somewhere on the image
 c.	A circle with a customized radius is generated there. It has a number on it.
