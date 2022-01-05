@@ -1,7 +1,9 @@
 ClickIntensity
 By Ziqing Ye @ Trcek lab
 
+See detailed instuctions in the pdf in this repository, or via this link: https://1drv.ms/b/s!AkQWSMjJWJr1gophVl1ftyjxgOau7g?e=H07dcE
 
+Overview:
 The program is used to record average pixel intensity data in target regions of interest. Here’s a brief summary of what it does: 
 a.	You open the program and the image that you want to analyze opens up.
 b.	You left click somewhere on the image
