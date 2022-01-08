@@ -27,7 +27,7 @@ The average pixel intensity within those ROIs will be automatically computed and
 is much easier compared to the traditional process in ImageJ which requires users to manually drag and create every single circle.
 ClickIntensity V4 also allows users to adjust ROI radii, adjust display brightness, and zooming in/out.
 
-Small note: I wrote this as a project in Trcek Lab @ Johns Hopkins University. However it was also largely motivated
+Small note: I wrote this as an experimental project in Trcek Lab @ Johns Hopkins University. However it was also partly motivated
 by my own personal experiences with ImageJ and fluorescent image analysis when I was a summer intern at Bradham Lab at
 Boston University. Basically, knowing the cumbersomeness of the ROI-based image analysis from my experience at Bradham lab
 makes me more motivated in pursuing this project, and guides a few of the design choices (e.g. the labeling of image).
