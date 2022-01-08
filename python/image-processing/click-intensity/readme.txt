@@ -20,3 +20,14 @@ Some notable features:
 3.	Can zoom in and out and recenter while making accurate ROI selections.
 
 
+Relevance & usage:
+A tool to aid fluorescent image analysis. User open the image to be analysed using this application, and
+then they will able to generate circular ROIs (region of interest) on the desired parts of the image, each with a single click.
+The average pixel intensity within those ROIs will be automatically computed and wrote to an excel spreadsheet. Overall, this
+is much easier compared to the traditional process in ImageJ which requires users to manually drag and create every single circle.
+ClickIntensity V4 also allows users to adjust ROI radii, adjust display brightness, and zooming in/out.
+
+Small note: I wrote this as a project in Trcek Lab @ Johns Hopkins University. However it was also largely motivated
+by my own personal experiences with ImageJ and fluorescent image analysis when I was a summer intern at Bradham Lab at
+Boston University. Basically, knowing the cumbersomeness of the ROI-based image analysis from my experience at Bradham lab
+makes me more motivated in pursuing this project, and guides a few of the design choices (e.g. the labeling of image).
