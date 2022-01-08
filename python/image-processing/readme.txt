@@ -1,5 +1,4 @@
-The projects listed here are Python codes I have written between March 2020 and September 2020. The source code's style may not
-be the most mature, but it works. My understanding of good programming practices has increased a lot since then.
+The projects listed here are Python codes I have written between March 2020 and September 2020.
 
 ClickIntensity: 
 - A detailed instruction pdf for ClickIntensity can be found here: https://1drv.ms/b/s!AkQWSMjJWJr1gophVl1ftyjxgOau7g?e=CNf6Rq
@@ -12,6 +11,10 @@ within that circle. You can just keep clicking and all those pixel intensity dat
     4. Pair mode for two-channel colocalization analysis
     5. Annotated image for data visualization
 
+QuantiCellPhe (3d image analysis):
+- A project for counting (phenotypic) cells in 3D (z-stacks of microscope images)
+- Three components: gradient normalize, smart threshold, 3D nuclei construction
+- Details & examples: https://livejohnshopkins-my.sharepoint.com/:b:/g/personal/zye20_jh_edu/EY60Ef8SH11BumMcT5W3YygBNonfl6XZ6wx6s2UuhNfyiA?e=i1BZoJ
 
 Ziqing Ye, Tatjana Trcek, Trcek Lab @ Johns Hopkins University
 
