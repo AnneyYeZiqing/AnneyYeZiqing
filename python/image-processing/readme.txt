@@ -14,7 +14,7 @@ within that circle. You can just keep clicking and all those pixel intensity dat
 QuantiCellPhe (3d image analysis):
 - A project for counting (phenotypic) cells in 3D (z-stacks of microscope images)
 - Three components: gradient normalize, smart threshold, 3D nuclei construction
-- Details & examples: https://livejohnshopkins-my.sharepoint.com/:b:/g/personal/zye20_jh_edu/EY60Ef8SH11BumMcT5W3YygBNonfl6XZ6wx6s2UuhNfyiA?e=i1BZoJ
+- Details & examples: "https://livejohnshopkins-my.sharepoint.com/:b:/g/personal/zye20_jh_edu/EY60Ef8SH11BumMcT5W3YygBNonfl6XZ6wx6s2UuhNfyiA?e=i1BZoJ"
 
 Ziqing Ye, Tatjana Trcek, Trcek Lab @ Johns Hopkins University
 
