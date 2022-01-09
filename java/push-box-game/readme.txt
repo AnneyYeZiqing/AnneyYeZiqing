@@ -1,0 +1,4 @@
+- Description: This is a mini-game project made during the 2021 HackHer 413 Hackathon.
+- Notable features: a graphical user interface, keyboard input, uses java as the programming language. 
+- Source code: https://github.com/AnneyYeZiqing/push-box-treasure.git
+- Video demo: to be added
