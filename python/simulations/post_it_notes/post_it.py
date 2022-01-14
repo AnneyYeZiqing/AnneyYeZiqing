@@ -40,7 +40,7 @@ class PostIt:
 
     def draw(self, row):
         "draws from the currently pullable pile in the designated row"
-        #omit col parameter b/c only one choice
+        #omit col parameter b/c only one choice, had to pull the "up" tab in each row
         if (self.exhausted == True):
             print("Pack already reached terminal state")
             return
