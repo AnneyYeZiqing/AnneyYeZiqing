@@ -1,9 +1,14 @@
 Post-it simulations: An Experiment by Ziqing Ye
-Background: post-it notes are designed in an Nx2 matrix: N rows of stickers,
+Written for fun on Dec 30, 2021
+
+Background: post-it note flags are designed in an Nx2 matrix: N rows of stickers,
 each row consisted of two different colors, one on each side. In each row,
 only one color will be flipped up for pulling while the other was hidden below,
 and the available color alternates. Once you pull out a sheet of color A, 
 a sheet of color B will pop up, etc.
+- Specifically I am refering to this type linked here:
+https://www.walmart.com/ip/Post-it-Flags-5-in-Wide-Assorted-Colors-60-Flags/22478094
+
 Goal: Try to use the colors as evenly as possible
 Assumptions: After the first few pulls, you start to forget which rows are one pull
 ahead and which rows haven't been pulled. You cannot tell based on thickness, and you
